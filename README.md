@@ -36,9 +36,9 @@ Answer b)
 
 **c)** Time Complexity: After the array is sorted, which of the following cases does the number 18 fall under?  (Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız.)
 ```
-1. Average Case: Aranan sayının ortada olması
-2. Worst Case: Aranan sayının sonda olması
-3. Best Case: Aranan sayının dizinin en başında olması
+1. Average Case: The number that we are looking for is at the middle. (Aranan sayının ortada olması)
+2. Worst Case: The number that we are looking for is at the end. (Aranan sayının sonda olması)
+3. Best Case: The number that we are looking for is the first one. (Aranan sayının dizinin en başında olması)
 ```
 ```
 Answer c)
@@ -60,7 +60,7 @@ Answer
 ```
 # Merge Sort
 
-**Soru 1)** 
+**Q1)** 
 ```
 [16,21,11,8,12,22]
 ```
